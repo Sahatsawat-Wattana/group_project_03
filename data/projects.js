@@ -25,4 +25,11 @@ const projects = [
     status: "in-progress",
     github: "#",
   },
+  {
+    member: "TAR",
+    project: "DevTeam Hub",
+    description: "The team portfolio site you are looking at right now.",
+    status: "in-progress",
+    github: "https://github.com/Sahatsawat-Wattana/group_project_03.git",
+  },
 ];
