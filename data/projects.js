@@ -18,9 +18,4 @@ const projects = [
     status: "in-progress",
     github: "https://github.com/phongphon1611/group_project_03",
   },
-
-  
 ];
-
-];
-
